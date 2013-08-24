@@ -1,0 +1,11 @@
+{
+  "name": "grunt-contao-clean",
+  "version": "0.0.1",
+  "description": "Contao cleaner gruntjs plugin",
+  "author": "Sergey Dyagovchenko",
+  "license": "LGPL",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0"
+  }
+}
